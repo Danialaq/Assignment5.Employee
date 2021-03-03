@@ -1,5 +1,6 @@
 package com.company.entity;
 
+//нечего интересно в этом Классе нет, создаем класс - Employee; прописал нужные columns из itcomp table и создал конструктор с сеттерами; также прописал getter для дальшего использования
 public class Employee {
     public int uniq_id;
     public String firstName;
